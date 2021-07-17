@@ -1,0 +1,17 @@
+.getstart {
+  color: white;
+}
+
+.getstarttext > p {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+#getstart {
+  background-color: inherit;
+  border-radius: 18px;
+}
+
+/* .getstarttext {
+
+} */
